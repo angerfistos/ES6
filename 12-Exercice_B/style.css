@@ -1,0 +1,23 @@
+.table {
+    width: 80%;
+    border-collapse: collapse;
+    border-style : solid;
+    border-width: 1px;
+    border-color: black; 
+    margin: 0em 0em 1em 1em;
+}
+
+.header th{
+    background-color: #626262;
+    color: white;
+
+}
+
+.body tr{
+  text-align: center;
+}
+
+.body tr:nth-child(even) {
+    background-color: #afafafef;    
+}
+

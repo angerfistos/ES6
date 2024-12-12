@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Pat",
+      "lastname": "le Pirate",
+      "email": "patpirate@yahoo.com",
+      "password": "1234"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "number": 96,
+      "first_name": "Sebastien",
+      "last_name": "danLeBain",
+      "imageUrl": "https://www.lescrados.com/images/crados/96.jpg",
+      "comment": "Sébastien a eu la baveuse d'or du 10 mètres coulée libre à Séoul."
+    },
+    {
+      "id": 2,
+      "number": 300,
+      "first_name": "Patrick",
+      "last_name": "Mécanique",
+      "imageUrl": "https://www.lescrados.com/images/crados2/300.jpg",
+      "comment": "Patrick a mis le doigt dans l'engrenage.Maintenant, il est coincé. "
+    },
+    {
+      "id": 3,
+      "number": 152,
+      "first_name": "Romain",
+      "last_name": "Touterrain",
+      "imageUrl": "https://www.lescrados.com/images/crados/152.jpg",
+      "comment": "Tout jeune, Romain a eu un accident de poussette. Des années plus tard, il dépasse encore les bornes."
+    }
+  ]
+}
